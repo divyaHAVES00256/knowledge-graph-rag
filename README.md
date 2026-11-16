@@ -247,4 +247,7 @@ docker compose logs --tail 50 streamlit
 docker compose logs --tail 50 neo4j
 docker compose logs --tail 50 ollama
 ```
+---
+
+<p align="center">Made with ♡ by Divya</p>
 
